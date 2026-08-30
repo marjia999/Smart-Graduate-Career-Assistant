@@ -61,3 +61,7 @@ Used **Base44** to build and deploy the complete web application using a vibe-co
 
 https://smart-graduate-career-assistant.base44.app/
 
+
+## Contact
+- **Email**: marjiakhatun.my@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/marjia-khatun/
